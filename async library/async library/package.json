@@ -1,0 +1,11 @@
+{
+    "name": "asignment",
+    "developer": "Ali Uzair",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "async": "^2.6.1",
+        "cheerio": "^1.0.0-rc.2"
+    }
+}
